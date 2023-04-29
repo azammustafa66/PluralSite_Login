@@ -1,5 +1,5 @@
 # This is a of clone PluralSight login page
 
-<a>
+<div align='center'>
     <img src="Screenshot.png">
-</a>
+</div>
