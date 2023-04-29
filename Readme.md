@@ -1,3 +1,3 @@
 # This is a of clone PluralSight login page
 
-![Screenshot] (Screenshot.png)
+![ScreenShot](https://raw.github.com/azammustafa66/PluralSight_Login/master/Screenshot.png)
