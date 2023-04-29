@@ -1,3 +1,3 @@
-# This is a clone PluralSight login page
+# This is a of clone PluralSight login page
 
-![Image] (./img/Screenshot.png)
+![Alt text](/relative/path/to/img.jpg?raw=true "")
